@@ -1,0 +1,61 @@
+id,date,source,headline,category,party_mentioned,reported_sentiment,factual_accuracy_rating,bias_score
+1,2026-05-01,The Global Times (Hypothetical),Government announces new economic policy framework,Economy,BJP,Neutral,4,
+2,2026-05-01,The Global Times (Hypothetical),Government achieves major boost with new economic policy reforms,Economy,BJP,Pro-Ruling,4,
+3,2026-05-01,The Global Times (Hypothetical),Opposition says economic policy fails to address unemployment crisis,Economy,INC,Pro-Opposition,3,
+4,2026-05-02,Daily Bharat,Healthcare policy introduced in Parliament,Healthcare,BJP,Neutral,5,
+5,2026-05-02,Daily Bharat,Government achieves milestone with nationwide healthcare expansion,Healthcare,BJP,Pro-Ruling,4,
+6,2026-05-02,Daily Bharat,Opposition alleges healthcare policy fails rural citizens,Healthcare,INC,Pro-Opposition,3,
+7,2026-05-03,The Capital Post,New education scheme launched across states,Education,BJP,Neutral,5,
+8,2026-05-03,The Capital Post,Government achieves reform success with education scheme rollout,Education,BJP,Pro-Ruling,4,
+9,2026-05-03,The Capital Post,Opposition claims education scheme fails to reach remote areas,Education,INC,Pro-Opposition,3,
+10,2026-05-04,The Global Times (Hypothetical),Election reforms proposed by Cabinet,Elections,BJP,Neutral,4,
+11,2026-05-04,The Global Times (Hypothetical),Government achieves transparency push with election reforms,Elections,BJP,Pro-Ruling,4,
+12,2026-05-04,The Global Times (Hypothetical),Opposition alleges election reforms favor ruling party interests,Elections,INC,Pro-Opposition,2,
+13,2026-05-05,Daily Bharat,Infrastructure policy announced for urban development,Infrastructure,BJP,Neutral,5,
+14,2026-05-05,Daily Bharat,Government achieves rapid progress with infrastructure push,Infrastructure,BJP,Pro-Ruling,4,
+15,2026-05-05,Daily Bharat,Opposition says infrastructure projects struggle with delays,Infrastructure,INC,Pro-Opposition,3,
+16,2026-05-06,The Capital Post,Government releases employment data report,Economy,BJP,Neutral,5,
+17,2026-05-06,The Capital Post,Government achieves employment boost with new job data,Economy,BJP,Pro-Ruling,4,
+18,2026-05-06,The Capital Post,Opposition alleges government fails to present true unemployment figures,Economy,INC,Pro-Opposition,2,
+19,2026-05-07,The Global Times (Hypothetical),New digital policy announced by government,Technology,BJP,Neutral,5,
+20,2026-05-07,The Global Times (Hypothetical),Government achieves innovation milestone with digital policy,Technology,BJP,Pro-Ruling,4,
+21,2026-05-07,The Global Times (Hypothetical),Opposition claims digital policy fails small businesses,Technology,INC,Pro-Opposition,3,
+22,2026-05-08,Daily Bharat,Government presents agriculture policy update in Parliament,Economy,BJP,Neutral,5,0.0
+23,2026-05-08,Daily Bharat,Government achieves historic success with farmer-focused policy reforms,Economy,BJP,Pro-Ruling,4,0.9
+24,2026-05-08,Daily Bharat,Opposition says agriculture policy fails farmers and allegedly benefits corporations,Economy,INC,Pro-Opposition,2,-0.9
+25,2026-05-09,The Capital Post,Cabinet discusses new national security policy,Politics,BJP,Neutral,5,0.0
+26,2026-05-09,The Capital Post,Government achieves strong national defense posture with bold security policy,Politics,BJP,Pro-Ruling,4,0.85
+27,2026-05-09,The Capital Post,Opposition alleges security policy fails to protect citizens and ignores key threats,Politics,INC,Pro-Opposition,2,-0.85
+28,2026-05-10,The Global Times (Hypothetical),Government announces new urban housing scheme,Infrastructure,BJP,Neutral,5,0.0
+29,2026-05-10,The Global Times (Hypothetical),Government achieves housing revolution with ambitious urban scheme,Infrastructure,BJP,Pro-Ruling,4,0.9
+30,2026-05-10,The Global Times (Hypothetical),Opposition claims housing scheme fails poor and allegedly favors elite developers,Infrastructure,INC,Pro-Opposition,2,-0.9
+31,2026-05-11,Daily Bharat,Government releases new climate policy framework,Environment,BJP,Neutral,5,0.0
+32,2026-05-11,Daily Bharat,Government achieves global leadership with progressive climate policy,Environment,BJP,Pro-Ruling,4,0.8
+33,2026-05-11,Daily Bharat,Opposition alleges climate policy fails environment goals and ignores experts,Environment,INC,Pro-Opposition,3,-0.8
+34,2026-05-12,The Capital Post,Government announces new transport policy,Infrastructure,BJP,Neutral,5,0.0
+35,2026-05-12,The Capital Post,Government achieves major mobility breakthrough with transport reforms,Infrastructure,BJP,Pro-Ruling,4,0.85
+36,2026-05-12,The Capital Post,Opposition says transport policy fails commuters and struggles with execution,Infrastructure,INC,Pro-Opposition,3,-0.75
+37,2026-05-13,The Global Times (Hypothetical),Government presents new tax reform bill,Economy,BJP,Neutral,5,0.0
+38,2026-05-13,The Global Times (Hypothetical),Government achieves economic boost with bold tax reforms,Economy,BJP,Pro-Ruling,4,0.9
+39,2026-05-13,The Global Times (Hypothetical),Opposition alleges tax reforms fail middle class and benefit corporations,Economy,INC,Pro-Opposition,2,-0.9
+40,2026-05-14,Daily Bharat,Government releases new digital governance policy,Technology,BJP,Neutral,5,0.0
+41,2026-05-14,Daily Bharat,Government achieves digital transformation success with governance reforms,Technology,BJP,Pro-Ruling,4,0.85
+42,2026-05-14,Daily Bharat,Opposition claims digital policy fails citizens and allegedly increases surveillance,Technology,INC,Pro-Opposition,2,-0.85
+43,2026-05-15,The Capital Post,Government announces new industrial policy,Economy,BJP,Neutral,5,0.0
+44,2026-05-15,The Capital Post,Government achieves industrial boom with strategic policy reforms,Economy,BJP,Pro-Ruling,4,0.9
+45,2026-05-15,The Capital Post,Opposition alleges industrial policy fails small businesses and favors big corporates,Economy,INC,Pro-Opposition,2,-0.9
+46,2026-05-16,The Global Times (Hypothetical),Government introduces new public safety law,Politics,BJP,Neutral,5,0.0
+47,2026-05-16,The Global Times (Hypothetical),Government achieves stronger law enforcement with new safety legislation,Politics,BJP,Pro-Ruling,4,0.85
+48,2026-05-16,The Global Times (Hypothetical),Opposition claims safety law fails civil liberties and allegedly increases misuse,Politics,INC,Pro-Opposition,2,-0.85
+49,2026-05-17,Daily Bharat,Government announces new rural development scheme,Infrastructure,BJP,Neutral,5,0.0
+50,2026-05-17,Daily Bharat,Government achieves rural transformation with ambitious development scheme,Infrastructure,BJP,Pro-Ruling,4,0.9
+51,2026-05-17,Daily Bharat,Opposition alleges rural scheme fails villages and struggles with corruption,Infrastructure,INC,Pro-Opposition,3,-0.8
+52,2026-05-18,The Capital Post,Government releases new education reform plan,Education,BJP,Neutral,5,0.0
+53,2026-05-18,The Capital Post,Government achieves education revolution with bold reform plan,Education,BJP,Pro-Ruling,4,0.9
+54,2026-05-18,The Capital Post,Opposition claims education reforms fail students and allegedly ignore teachers,Education,INC,Pro-Opposition,2,-0.9
+55,2026-05-19,The Global Times (Hypothetical),Government announces new healthcare expansion plan,Healthcare,BJP,Neutral,5,0.0
+56,2026-05-19,The Global Times (Hypothetical),Government achieves universal care milestone with healthcare expansion,Healthcare,BJP,Pro-Ruling,4,0.9
+57,2026-05-19,The Global Times (Hypothetical),Opposition alleges healthcare plan fails patients and struggles with funding gaps,Healthcare,INC,Pro-Opposition,3,-0.85
+58,2026-05-20,Daily Bharat,Government presents new foreign policy strategy,Politics,BJP,Neutral,5,0.0
+59,2026-05-20,Daily Bharat,Government achieves global recognition with strong foreign policy stance,Politics,BJP,Pro-Ruling,4,0.85
+60,2026-05-20,Daily Bharat,Opposition claims foreign policy fails diplomacy and isolates the nation,Politics,INC,Pro-Opposition,2,-0.9

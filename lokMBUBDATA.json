@@ -1,0 +1,659 @@
+[
+  {
+    "id": 1,
+    "date": "2026-05-01",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government announces new economic policy framework",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 2,
+    "date": "2026-05-01",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves major boost with new economic policy reforms",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 3,
+    "date": "2026-05-01",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition says economic policy fails to address unemployment crisis",
+    "category": "Economy",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3
+  },
+
+  {
+    "id": 4,
+    "date": "2026-05-02",
+    "source": "Daily Bharat",
+    "headline": "Healthcare policy introduced in Parliament",
+    "category": "Healthcare",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5
+  },
+  {
+    "id": 5,
+    "date": "2026-05-02",
+    "source": "Daily Bharat",
+    "headline": "Government achieves milestone with nationwide healthcare expansion",
+    "category": "Healthcare",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 6,
+    "date": "2026-05-02",
+    "source": "Daily Bharat",
+    "headline": "Opposition alleges healthcare policy fails rural citizens",
+    "category": "Healthcare",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3
+  },
+
+  {
+    "id": 7,
+    "date": "2026-05-03",
+    "source": "The Capital Post",
+    "headline": "New education scheme launched across states",
+    "category": "Education",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5
+  },
+  {
+    "id": 8,
+    "date": "2026-05-03",
+    "source": "The Capital Post",
+    "headline": "Government achieves reform success with education scheme rollout",
+    "category": "Education",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 9,
+    "date": "2026-05-03",
+    "source": "The Capital Post",
+    "headline": "Opposition claims education scheme fails to reach remote areas",
+    "category": "Education",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3
+  },
+
+  {
+    "id": 10,
+    "date": "2026-05-04",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Election reforms proposed by Cabinet",
+    "category": "Elections",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 11,
+    "date": "2026-05-04",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves transparency push with election reforms",
+    "category": "Elections",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 12,
+    "date": "2026-05-04",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition alleges election reforms favor ruling party interests",
+    "category": "Elections",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2
+  },
+
+  {
+    "id": 13,
+    "date": "2026-05-05",
+    "source": "Daily Bharat",
+    "headline": "Infrastructure policy announced for urban development",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5
+  },
+  {
+    "id": 14,
+    "date": "2026-05-05",
+    "source": "Daily Bharat",
+    "headline": "Government achieves rapid progress with infrastructure push",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 15,
+    "date": "2026-05-05",
+    "source": "Daily Bharat",
+    "headline": "Opposition says infrastructure projects struggle with delays",
+    "category": "Infrastructure",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3
+  },
+
+  {
+    "id": 16,
+    "date": "2026-05-06",
+    "source": "The Capital Post",
+    "headline": "Government releases employment data report",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5
+  },
+  {
+    "id": 17,
+    "date": "2026-05-06",
+    "source": "The Capital Post",
+    "headline": "Government achieves employment boost with new job data",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 18,
+    "date": "2026-05-06",
+    "source": "The Capital Post",
+    "headline": "Opposition alleges government fails to present true unemployment figures",
+    "category": "Economy",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2
+  },
+
+  {
+    "id": 19,
+    "date": "2026-05-07",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "New digital policy announced by government",
+    "category": "Technology",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5
+  },
+  {
+    "id": 20,
+    "date": "2026-05-07",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves innovation milestone with digital policy",
+    "category": "Technology",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4
+  },
+  {
+    "id": 21,
+    "date": "2026-05-07",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition claims digital policy fails small businesses",
+    "category": "Technology",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3
+  },
+  {
+    "id": 22,
+    "date": "2026-05-08",
+    "source": "Daily Bharat",
+    "headline": "Government presents agriculture policy update in Parliament",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 23,
+    "date": "2026-05-08",
+    "source": "Daily Bharat",
+    "headline": "Government achieves historic success with farmer-focused policy reforms",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 24,
+    "date": "2026-05-08",
+    "source": "Daily Bharat",
+    "headline": "Opposition says agriculture policy fails farmers and allegedly benefits corporations",
+    "category": "Economy",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.9
+  },
+
+  {
+    "id": 25,
+    "date": "2026-05-09",
+    "source": "The Capital Post",
+    "headline": "Cabinet discusses new national security policy",
+    "category": "Politics",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 26,
+    "date": "2026-05-09",
+    "source": "The Capital Post",
+    "headline": "Government achieves strong national defense posture with bold security policy",
+    "category": "Politics",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.85
+  },
+  {
+    "id": 27,
+    "date": "2026-05-09",
+    "source": "The Capital Post",
+    "headline": "Opposition alleges security policy fails to protect citizens and ignores key threats",
+    "category": "Politics",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.85
+  },
+
+  {
+    "id": 28,
+    "date": "2026-05-10",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government announces new urban housing scheme",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 29,
+    "date": "2026-05-10",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves housing revolution with ambitious urban scheme",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 30,
+    "date": "2026-05-10",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition claims housing scheme fails poor and allegedly favors elite developers",
+    "category": "Infrastructure",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.9
+  },
+
+  {
+    "id": 31,
+    "date": "2026-05-11",
+    "source": "Daily Bharat",
+    "headline": "Government releases new climate policy framework",
+    "category": "Environment",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 32,
+    "date": "2026-05-11",
+    "source": "Daily Bharat",
+    "headline": "Government achieves global leadership with progressive climate policy",
+    "category": "Environment",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.8
+  },
+  {
+    "id": 33,
+    "date": "2026-05-11",
+    "source": "Daily Bharat",
+    "headline": "Opposition alleges climate policy fails environment goals and ignores experts",
+    "category": "Environment",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3,
+    "bias_score": -0.8
+  },
+
+  {
+    "id": 34,
+    "date": "2026-05-12",
+    "source": "The Capital Post",
+    "headline": "Government announces new transport policy",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 35,
+    "date": "2026-05-12",
+    "source": "The Capital Post",
+    "headline": "Government achieves major mobility breakthrough with transport reforms",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.85
+  },
+  {
+    "id": 36,
+    "date": "2026-05-12",
+    "source": "The Capital Post",
+    "headline": "Opposition says transport policy fails commuters and struggles with execution",
+    "category": "Infrastructure",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3,
+    "bias_score": -0.75
+  },
+
+  {
+    "id": 37,
+    "date": "2026-05-13",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government presents new tax reform bill",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 38,
+    "date": "2026-05-13",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves economic boost with bold tax reforms",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 39,
+    "date": "2026-05-13",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition alleges tax reforms fail middle class and benefit corporations",
+    "category": "Economy",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.9
+  },
+
+  {
+    "id": 40,
+    "date": "2026-05-14",
+    "source": "Daily Bharat",
+    "headline": "Government releases new digital governance policy",
+    "category": "Technology",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 41,
+    "date": "2026-05-14",
+    "source": "Daily Bharat",
+    "headline": "Government achieves digital transformation success with governance reforms",
+    "category": "Technology",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.85
+  },
+  {
+    "id": 42,
+    "date": "2026-05-14",
+    "source": "Daily Bharat",
+    "headline": "Opposition claims digital policy fails citizens and allegedly increases surveillance",
+    "category": "Technology",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.85
+  },
+
+  {
+    "id": 43,
+    "date": "2026-05-15",
+    "source": "The Capital Post",
+    "headline": "Government announces new industrial policy",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 44,
+    "date": "2026-05-15",
+    "source": "The Capital Post",
+    "headline": "Government achieves industrial boom with strategic policy reforms",
+    "category": "Economy",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 45,
+    "date": "2026-05-15",
+    "source": "The Capital Post",
+    "headline": "Opposition alleges industrial policy fails small businesses and favors big corporates",
+    "category": "Economy",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.9
+  },
+
+  {
+    "id": 46,
+    "date": "2026-05-16",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government introduces new public safety law",
+    "category": "Politics",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 47,
+    "date": "2026-05-16",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves stronger law enforcement with new safety legislation",
+    "category": "Politics",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.85
+  },
+  {
+    "id": 48,
+    "date": "2026-05-16",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition claims safety law fails civil liberties and allegedly increases misuse",
+    "category": "Politics",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.85
+  },
+
+  {
+    "id": 49,
+    "date": "2026-05-17",
+    "source": "Daily Bharat",
+    "headline": "Government announces new rural development scheme",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 50,
+    "date": "2026-05-17",
+    "source": "Daily Bharat",
+    "headline": "Government achieves rural transformation with ambitious development scheme",
+    "category": "Infrastructure",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 51,
+    "date": "2026-05-17",
+    "source": "Daily Bharat",
+    "headline": "Opposition alleges rural scheme fails villages and struggles with corruption",
+    "category": "Infrastructure",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3,
+    "bias_score": -0.8
+  },
+
+  {
+    "id": 52,
+    "date": "2026-05-18",
+    "source": "The Capital Post",
+    "headline": "Government releases new education reform plan",
+    "category": "Education",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 53,
+    "date": "2026-05-18",
+    "source": "The Capital Post",
+    "headline": "Government achieves education revolution with bold reform plan",
+    "category": "Education",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 54,
+    "date": "2026-05-18",
+    "source": "The Capital Post",
+    "headline": "Opposition claims education reforms fail students and allegedly ignore teachers",
+    "category": "Education",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.9
+  },
+
+  {
+    "id": 55,
+    "date": "2026-05-19",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government announces new healthcare expansion plan",
+    "category": "Healthcare",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 56,
+    "date": "2026-05-19",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Government achieves universal care milestone with healthcare expansion",
+    "category": "Healthcare",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.9
+  },
+  {
+    "id": 57,
+    "date": "2026-05-19",
+    "source": "The Global Times (Hypothetical)",
+    "headline": "Opposition alleges healthcare plan fails patients and struggles with funding gaps",
+    "category": "Healthcare",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 3,
+    "bias_score": -0.85
+  },
+
+  {
+    "id": 58,
+    "date": "2026-05-20",
+    "source": "Daily Bharat",
+    "headline": "Government presents new foreign policy strategy",
+    "category": "Politics",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Neutral",
+    "factual_accuracy_rating": 5,
+    "bias_score": 0.0
+  },
+  {
+    "id": 59,
+    "date": "2026-05-20",
+    "source": "Daily Bharat",
+    "headline": "Government achieves global recognition with strong foreign policy stance",
+    "category": "Politics",
+    "party_mentioned": "BJP",
+    "reported_sentiment": "Pro-Ruling",
+    "factual_accuracy_rating": 4,
+    "bias_score": 0.85
+  },
+  {
+    "id": 60,
+    "date": "2026-05-20",
+    "source": "Daily Bharat",
+    "headline": "Opposition claims foreign policy fails diplomacy and isolates the nation",
+    "category": "Politics",
+    "party_mentioned": "INC",
+    "reported_sentiment": "Pro-Opposition",
+    "factual_accuracy_rating": 2,
+    "bias_score": -0.9
+  }
+]
